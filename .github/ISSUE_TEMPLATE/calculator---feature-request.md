@@ -1,8 +1,8 @@
 ---
-name: Rarity - Feature Request
+name: Calculator - Feature Request
 about: Feature request for the Rarity product on treasure.tools.
-title: "[Rarity]"
-labels: Rarity
+title: "[Calculator]"
+labels: Calculator
 assignees: ''
 
 ---
